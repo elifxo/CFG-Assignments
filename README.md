@@ -1,20 +1,20 @@
 # CFG-Assignments
 A repository for my CFG Degree assignments. 
 
-Tech Stack
+## Tech Stack
 Languages: Javascript, Typescript
 
-Project Structure
+## Project Structure
 ![Alt text](https://github.com/elifxo/CFG-Assignments/blob/main/Flowchart%20(2).jpg)
 
 
-Getting Started
+## Getting Started
 
 Prerequisites:
 Node.js 
 NPM or YARN
 
-Installation:
+## Installation:
 
 1. Clone the repository
 2. Install dependencies with npm install
