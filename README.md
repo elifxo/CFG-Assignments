@@ -5,7 +5,7 @@ Tech Stack
 Languages: Javascript, Typescript
 
 Project Structure
-
+![My Photo](Flowchart (2).jpg)
 
 
 Getting Started
