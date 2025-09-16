@@ -5,7 +5,7 @@ Tech Stack
 Languages: Javascript, Typescript
 
 Project Structure
-![My Photo](Flowchart(2).jpg)
+![Alt text](https://github.com/elifxo/CFG-Assignments/blob/main/Flowchart%20(2).jpg)
 
 
 Getting Started
