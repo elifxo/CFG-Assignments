@@ -1,5 +1,12 @@
 # CFG-Assignments
-A repository for my first CFG Degree assignment. 
+A repository for my CFG Degree assignments. 
+
+Tech Stack
+Languages: Javascript, Typescript
+
+Project Structure
+
+
 
 Getting Started
 
