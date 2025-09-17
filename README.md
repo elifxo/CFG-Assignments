@@ -27,8 +27,8 @@ The application will be available at: **https://localhost:3000**
 
 ## Contributing
 1. Fork the repository
-2. Create your feature branch git checkout -b my-new-feature
-3. Commit your changes git commit -m "Made a feature"
-4. Push to the main branch git push origin main
+2. Create your feature branch **git checkout -b my-new-feature**
+3. Commit your changes **git commit -m "Made a feature"**
+4. Push to the main branch **git push origin main**
 5. Sumbit a pull request
    
