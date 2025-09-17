@@ -1,0 +1,18 @@
+# A .txt is a plain text file. Used in Python it lists all the dependencies and libraries needed for a project, much like package.json in javascript. The main differences are that 
+# requirements.txt is dependencies only as it can't hold metadata and of course the formatting of the file. 
+
+# Web framework
+flask==2.3.2
+
+# Database connector
+sqlalchemy==2.0.19
+psycopg2-binary==2.9.7   # for PostgreSQL
+
+# Environment variables
+python-dotenv==1.0.0
+
+# HTTP requests
+requests==2.31.0
+
+# Data handling
+pandas>=2.0.0
