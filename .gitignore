@@ -1,5 +1,5 @@
 # Gitignore is used to list files and folders that you don't want to be tracked by Git, for example temporary fiels such as logs or files with sensitive passwords such as
-a .env file to configure a server.
+# a .env file to configure a server.
 
 
 # Logs
