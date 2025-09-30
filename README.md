@@ -20,7 +20,7 @@ NPM or YARN
 2. Install dependencies with <ins>npm install</ins>
 3. Set up environment variables - <ins> copy .env.example .env.local </ins>
 4. Start the development server -<ins> npm run dev </ins>
-The application will be available at: **https://localhost:3000**
+The application will be available at: **https://localhost:5500**:
 5. Open the server folder cd server
 6. Start the production server <ins> npm run start </ins>
    The application will be available at: 
