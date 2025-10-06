@@ -1,6 +1,13 @@
 # CFG-Assignments
 ***A repository for my CFG Degree assignments.***
 
+# Assignments 
+<li> Assignment 1 </li>
+<li>[a link] (https://github.com/elifxo/CFG-Assignments/tree/main/repositories/repo2) Assignment 2 </li>
+<li> Assignment 3 </li>
+
+
+
 ## Tech Stack
 Languages: Javascript, Typescript
 
@@ -8,13 +15,13 @@ Languages: Javascript, Typescript
 ![Alt text](https://github.com/elifxo/CFG-Assignments/blob/main/Flowchart%20(2).jpg)
 
 
-## Getting Started
+## Example Getting Started
 
 Prerequisites:
 Node.js 
 NPM or YARN
 
-## Installation:
+## Example Installation:
 
 1. Clone the repository
 2. Install dependencies with <ins>npm install</ins>
@@ -25,7 +32,7 @@ The application will be available at: **https://localhost:5500**:
 6. Start the production server <ins> npm run start </ins>
    The application will be available at: 
 
-## Contributing
+## Example Contributing
 1. Fork the repository
 2. Create your feature branch **git checkout -b my-new-feature**
 3. Commit your changes **git commit -m "Made a feature"**
