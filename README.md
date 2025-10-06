@@ -2,16 +2,16 @@
 ***A repository for my CFG Degree assignments.***
 
 # Assignments 
-<li> Assignment 1 </li>
+<li> Assignment 1 (see below example read me) </li>
 <li> <a href="https://github.com/elifxo/CFG-Assignments/tree/main/repositories/repo2"> Assignment 2 </a> </li>
 <li> <a href="https://github.com/elifxo/CFG-Assignments/tree/main/repositories/repo3"> Assignment 3 </a> </li>
 
 
 
-## Tech Stack
+## Example Tech Stack
 Languages: Javascript, Typescript
 
-## Project Structure
+## Example Project Structure
 ![Alt text](https://github.com/elifxo/CFG-Assignments/blob/main/Flowchart%20(2).jpg)
 
 
