@@ -3,7 +3,7 @@
 
 # Assignments 
 <li> Assignment 1 </li>
-<li> (https://github.com/elifxo/CFG-Assignments/tree/main/repositories/repo2 "Assignment 2") </li>
+<li> [Assignment 2] (https://github.com/elifxo/CFG-Assignments/tree/main/repositories/repo2.md) </li>
 <li> Assignment 3 </li>
 
 
